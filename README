@@ -1,0 +1,18 @@
+Date Completed: Oct 2010
+Language: C++
+Development Environment: Qt Creator
+Important features: overloading operators 
+
+Mixed number calculator. 
+
+Capable of doing various operations on two mixed numbers or fractions.
+Available operations:
+  - addition (+)
+  - subtraction (-)
+  - multiplication (*)
+  - division (/)
+  - comparison
+    - greater than (>, >=)
+    - less than (<, <=)
+    - equal to (==)
+    - not equal to (!=)
